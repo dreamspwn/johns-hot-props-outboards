@@ -335,7 +335,7 @@ a { color: inherit; }
 .about-figure {
   background: var(--navy-deep);
   border-radius: var(--radius);
-  padding: 36px 28px;
+  padding: 0px 0px;
   color: var(--text-on-navy);
   text-align: center;
 }
