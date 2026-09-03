@@ -340,7 +340,7 @@ a { color: inherit; }
   text-align: center;
 }
 
-.about-figure img { margin: 0 auto 14px; width: 64px; height: 64px; }
+.about-figure img { margin: 0 auto px; width: 750px; height: 750x; }
 
 .about-figure .stat {
   font-family: var(--font-display);
